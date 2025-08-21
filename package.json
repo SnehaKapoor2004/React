@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-project",
+=======
+  "name": "08minicontext",
+>>>>>>> df5dac2 (my 8th project)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +14,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@tailwindcss/vite": "^4.1.12",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.8.1",
     "tailwindcss": "^4.1.12"
+=======
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+>>>>>>> df5dac2 (my 8th project)
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
